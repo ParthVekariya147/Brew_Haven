@@ -70,7 +70,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import burger from '../assets/burger.png';
-import caramel_Frappuccino from '../assets/caramel_Frappuccino.png';
+import caramel_Frappuccino from '../assets/Caramel_Frappuccino.png';
 import coffe from '../assets/coffe.png';
 import cake1  from  '../assets/Flourless_Chocolate_Cake.png'
 import french_fries  from  '../assets/french_fries.png'
