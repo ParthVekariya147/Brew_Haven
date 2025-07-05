@@ -71,7 +71,7 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import burger from '../assets/burger.png';
 import caramel_Frappuccino from '../assets/Caramel_Frappuccino.png';
-import coffe from '../assets/coffe.png';
+import coffe from '../assets/Coffe.png';
 import cake1  from  '../assets/Flourless_Chocolate_Cake.png'
 import french_fries  from  '../assets/french_fries.png'
 import  ice_cream from  '../assets/Ice_Cream.png'
@@ -81,7 +81,7 @@ import  french_fries1 from  '../assets/Oven_Baked_French_Fries.png'
 import wine  from  '../assets/gellery5.png'
 import pizza1 from  '../assets/pizza.png'
 import  pizza2 from  '../assets/pizza2.png'
-import ice_coffee from  '../assets/iced_coffee.png'
+import ice_coffee from  '../assets/Iced_coffee.png'
 import coctali from  '../assets/Sake_Sangria.png'
 import sandwich1 from  '../assets/Sandwich.png'
 import sandwich2 from  '../assets/Sandwich2.png'
