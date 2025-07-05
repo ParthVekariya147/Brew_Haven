@@ -1,3 +1,4 @@
+// Fixed case sensitivity issues for image imports
 // import bg from '../assets/bg.png';
 // import chef from '../assets/chef.png';
 // import G from '../assets/G.png';
